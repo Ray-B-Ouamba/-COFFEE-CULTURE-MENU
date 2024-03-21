@@ -3,7 +3,8 @@ To help customers to know what food and beverages the cafe offers.
 
 **PROJECT LINK:**  https://ray-b-ouamba.github.io/COFFEE-CULTURE-MENU/
 
-**TECH USED:** HTML, CSS.
+**TECH USED:** 
+HTML, CSS.
 
 ## OPTIMIZATIONS
 Create a Coffe-Culture-Menu with a background changing image. 
@@ -15,4 +16,3 @@ Create a Coffe-Culture-Menu with a background changing image.
 ## SIMILAR PROJECT:
 
 **PARTICIPANT-REGISTRATION-FORM:** https://ray-b-ouamba.github.io/PARTICIPANT-REGISTRATION-FORM/
-
